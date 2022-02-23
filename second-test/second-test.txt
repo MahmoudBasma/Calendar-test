@@ -1,0 +1,5 @@
+npm install --save react-big-calendar
+
+npm i --save react-big-calendar
+npm i --save moment
+
